@@ -11,7 +11,7 @@ A simple Python + Flask location reporting tool for Termux.
 
 📥 Installation
 ```bash
-git clone https://github.com/UG-ALOK/Location-hack.git
+git clone https://github.com/Curlgit/Location-hack.git
 ```
 ```bash
 cd Location-hack
@@ -27,9 +27,8 @@ Replace the repository URL and folder name with your actual Git repository detai
 python 'Location Tracker.py'
 ```
 ''
-⚠️ Disclaimer
-
-This project is intended for educational and lawful purposes only. The developer, Firewall Crasher, is not responsible for any illegal activities, unauthorized location tracking, misuse, or damage caused by the use of this tool. Users are solely responsible for their actions and must obtain consent before accessing anyone's location. Always follow applicable laws and respect privacy'
+**⚠️ Disclaimer
+This project is intended for educational and lawful purposes only. The developer, Firewall Crasher, is not responsible for any illegal activities, unauthorized location tracking, misuse, or damage caused by the use of this tool. Users are solely responsible for their actions and must obtain consent before accessing anyone's location. Always follow applicable laws and respect privacy**
 
 📜 Privacy
 
