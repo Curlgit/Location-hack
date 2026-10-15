@@ -28,7 +28,7 @@ python 'Location Tracker.py'
 ```
 ''
 **⚠️ Disclaimer
-This project is intended for educational and lawful purposes only. The developer, Firewall Crasher, is not responsible for any illegal activities, unauthorized location tracking, misuse, or damage caused by the use of this tool. Users are solely responsible for their actions and must obtain consent before accessing anyone's location. Always follow applicable laws and respect privacy**
+This project is intended for educational and lawful purposes only. The developer, Firewall and Curlgit , is not responsible for any illegal activities, unauthorized location tracking, misuse, or damage caused by the use of this tool. Users are solely responsible for their actions and must obtain consent before accessing anyone's location. Always follow applicable laws and respect privacy**
 
 📜 Privacy
 
