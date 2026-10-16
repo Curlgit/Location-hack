@@ -11,7 +11,7 @@ A simple Python + Flask location reporting tool for Termux.
 
 📥 Installation
 ```bash
-git clone https://github.com/Fr/Location-hack.git
+git clone https://github.com/Curlgit/Location-hack.git
 ```
 ```bash
 cd Location-hack
